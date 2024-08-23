@@ -38,7 +38,7 @@ div.texts {
 
 img.hero-img1 {
     flex: 1;
-    width: 500px;
+    width: 507px;
     height: 430px;
 
 }
@@ -89,8 +89,8 @@ img.hero-img2 {
     width: 120px;
     height: 120px;
     border: 2px solid #000;
-    top: -20px;
-    left: -20px;
+    top: -5%;
+    left: -3%;
 }
 
 .down-arrow {

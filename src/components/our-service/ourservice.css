@@ -1,0 +1,46 @@
+section.our-service h2 {
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+span.dash {
+    width: 100px;
+    height: 1px;
+    border: 2px solid #000;
+}
+
+
+
+section.our-service {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+    width: 100%;
+}
+
+div.services {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+}
+
+.service {
+    display: flex;
+    gap: 1rem;
+}
+
+.service > img {
+    width: 30px;
+    height: 30px;
+  
+}
+
+.r-flex {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    max-width: 250px;
+}
