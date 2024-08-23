@@ -14,7 +14,7 @@ function Hero() {
         </div>
         <div className="hero-bottom">
             <div className="left">
-                <span>Start Project</span>
+                <span className="p-btn">Start Project</span>
                 <div className="numbers">
                     <div className="number">
                         <h2>400+</h2>

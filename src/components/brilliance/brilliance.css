@@ -1,0 +1,25 @@
+section.brilliance {
+    display: flex;
+    gap: 2rem;
+}
+
+section.brilliance>img {
+    height: 500px;
+    width: 500px;
+}
+
+div.r-side {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+    justify-content: space-between;
+}
+
+div.r-side small {
+    width: 500px;
+}
+
+div.r-side h2 {
+    font-size: 3rem;
+    font-weight: 500;
+}
